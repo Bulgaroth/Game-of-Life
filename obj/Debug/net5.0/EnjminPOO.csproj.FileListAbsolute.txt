@@ -1,0 +1,16 @@
+D:\Users\artal\source\repos\EnjminPOO\EnjminPOO\bin\Debug\net5.0\EnjminPOO.exe
+D:\Users\artal\source\repos\EnjminPOO\EnjminPOO\bin\Debug\net5.0\EnjminPOO.deps.json
+D:\Users\artal\source\repos\EnjminPOO\EnjminPOO\bin\Debug\net5.0\EnjminPOO.runtimeconfig.json
+D:\Users\artal\source\repos\EnjminPOO\EnjminPOO\bin\Debug\net5.0\EnjminPOO.runtimeconfig.dev.json
+D:\Users\artal\source\repos\EnjminPOO\EnjminPOO\bin\Debug\net5.0\EnjminPOO.dll
+D:\Users\artal\source\repos\EnjminPOO\EnjminPOO\bin\Debug\net5.0\ref\EnjminPOO.dll
+D:\Users\artal\source\repos\EnjminPOO\EnjminPOO\bin\Debug\net5.0\EnjminPOO.pdb
+D:\Users\artal\source\repos\EnjminPOO\EnjminPOO\obj\Debug\net5.0\EnjminPOO.csproj.AssemblyReference.cache
+D:\Users\artal\source\repos\EnjminPOO\EnjminPOO\obj\Debug\net5.0\EnjminPOO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\artal\source\repos\EnjminPOO\EnjminPOO\obj\Debug\net5.0\EnjminPOO.AssemblyInfoInputs.cache
+D:\Users\artal\source\repos\EnjminPOO\EnjminPOO\obj\Debug\net5.0\EnjminPOO.AssemblyInfo.cs
+D:\Users\artal\source\repos\EnjminPOO\EnjminPOO\obj\Debug\net5.0\EnjminPOO.csproj.CoreCompileInputs.cache
+D:\Users\artal\source\repos\EnjminPOO\EnjminPOO\obj\Debug\net5.0\EnjminPOO.dll
+D:\Users\artal\source\repos\EnjminPOO\EnjminPOO\obj\Debug\net5.0\ref\EnjminPOO.dll
+D:\Users\artal\source\repos\EnjminPOO\EnjminPOO\obj\Debug\net5.0\EnjminPOO.pdb
+D:\Users\artal\source\repos\EnjminPOO\EnjminPOO\obj\Debug\net5.0\EnjminPOO.genruntimeconfig.cache
